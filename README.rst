@@ -11,6 +11,8 @@ Site aware logon script
 
 Overview
 ========
+:Platform: Windows
+
 This project features a location based drive mapper Python script implemented in the drivemapper.py module.
 
 The drivemapper.py module defines two classes:
