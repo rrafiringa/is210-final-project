@@ -9,6 +9,22 @@ Site aware logon script
 :Course-Name: Software Application Programming I
 :Course-Code: IS 210
 
+Overview
+========
+This project features a location based drive mapper Python script implemented in the drivemapper.py module.
+
+The drivemapper.py module defines two classes:
+#. ConfigReader
+#. Mapper
+
+The ConfigReader class:
+-----------------------
+The ConfigReader class takes an optional file path to a configuration JSON file. It loads the JSON file to internal data structures.
+
+The Mapper class:
+-----------------
+The Mapper class is a wrapper for the ConfigReader class and also the object used to implement the actual shared drive mapping.
+
 User story
 ==========
 Name: John B. Sysadmin
