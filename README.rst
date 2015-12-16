@@ -14,8 +14,8 @@ Overview
 This project features a location based drive mapper Python script implemented in the drivemapper.py module.
 
 The drivemapper.py module defines two classes:
-#. ConfigReader
-#. Mapper
+    #. ConfigReader
+    #. Mapper
 
 The ConfigReader class:
 -----------------------
